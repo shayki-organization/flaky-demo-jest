@@ -1,0 +1,19 @@
+package-lock.json
+  s_2b4d4531607f43::t_be3c3d421d1e5b 1-3663
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bebf0c1f84f975bef0f1b919f412276122cb87a8",
+  "prompts": {},
+  "sessions": {
+    "s_2b4d4531607f43": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "stealth-giraffe",
+        "model": "unknown"
+      },
+      "human_author": "Shayki Abramczyk <shayki5@gmail.com>"
+    }
+  }
+}
